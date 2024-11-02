@@ -1,0 +1,58 @@
+export const data = [
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    name: "Interstellar",
+    releaseYear: "2014",
+    rating: 8.9,
+  },
+];
